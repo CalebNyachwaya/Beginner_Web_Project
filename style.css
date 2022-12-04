@@ -1,15 +1,15 @@
 * {
   margin: 0;
+  color: #161513;
 }
 
 .container {
   margin: 0;
   width: 960px;
-  background-color: #e1d4c2; 
+  background-color: #e1d4c2;
   margin: 0 auto;
   padding: 10px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-
 }
 h1 {
   color: rgb(40, 40, 44);
@@ -28,7 +28,7 @@ body {
   display: flex;
   justify-content: space-between;
   background-color: #c8bcac;
-  padding: 20px 8px;
+  padding: 10px 8px;
 }
 
 .list2 ul {
@@ -36,19 +36,18 @@ body {
   gap: 50px;
 }
 
-/* a:link,
+a:link,
 a:visited {
-  color: aqua;
-  text-decoration: line-through;
+  color: #161513;
   text-decoration: none;
 }
 
 a:active,
 a:hover {
-  text-decoration: line-through;
-  text-decoration-color: maroon;
-} */
-
+  /* text-decoration: underline; */
+  color: #3333ff;
+  text-weight: bold;
+}
 ul a {
 }
 
@@ -56,6 +55,5 @@ h2 {
   padding: 20px 0;
 }
 img {
-	margin:20px 0;
+  margin: 20px 0;
 }
-
