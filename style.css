@@ -5,9 +5,11 @@
 .container {
   margin: 0;
   width: 960px;
-  background-color: antiquewhite;
+  background-color: #e1d4c2; 
   margin: 0 auto;
   padding: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
 }
 h1 {
   color: rgb(40, 40, 44);
@@ -53,3 +55,7 @@ ul a {
 h2 {
   padding: 20px 0;
 }
+img {
+	margin:20px 0;
+}
+
