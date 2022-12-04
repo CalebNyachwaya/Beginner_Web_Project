@@ -54,6 +54,9 @@ ul a {
 h2 {
   padding: 20px 0;
 }
-img {
-  margin: 20px 0;
+.pics {
+  margin-top: 20px;
+}
+.author {
+  font-size: small;
 }
